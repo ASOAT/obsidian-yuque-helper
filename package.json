@@ -1,0 +1,21 @@
+{
+  "name": "obsidian-yuque-helper",
+  "version": "0.1.5",
+  "private": true,
+  "description": "Desktop Obsidian plugin for manual one-way Markdown sync to Yuque.",
+  "type": "commonjs",
+  "license": "MIT",
+  "author": "ASOAT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASOAT/obsidian-yuque-helper.git"
+  },
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node build.js",
+    "pretest": "node build.js",
+    "test": "node --test",
+    "check": "node --check main.js",
+    "package": "node scripts/package.js"
+  }
+}

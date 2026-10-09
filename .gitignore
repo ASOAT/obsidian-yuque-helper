@@ -1,0 +1,20 @@
+# User-specific Obsidian settings, sync mappings, logs and authentication storage.
+data.json
+community-plugins*.json
+*.log
+.env
+.env.*
+sessions/
+Session Storage/
+Cookies
+Cookies-journal
+
+# Local build packages and tooling.
+dist/
+node_modules/
+coverage/
+*.zip
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db

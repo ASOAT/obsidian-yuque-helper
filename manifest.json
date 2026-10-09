@@ -1,0 +1,10 @@
+{
+  "id": "notebox-yuque-sync",
+  "name": "Obsidian Yuque Helper",
+  "version": "0.1.5",
+  "minAppVersion": "1.5.0",
+  "description": "桌面试用版：选择一级文件夹，手动同步 Markdown 笔记、引用图片与公式到语雀。",
+  "author": "ASOAT",
+  "isDesktopOnly": true,
+  "authorUrl": "https://github.com/ASOAT"
+}
